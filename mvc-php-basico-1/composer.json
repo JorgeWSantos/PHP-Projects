@@ -1,0 +1,12 @@
+{
+    "name": "project/phpmvc",
+    "description": "projeto mvc basico",
+    "authors": [
+        {
+            "name": "Jorge",
+            "email": "jorgews.dev@gmail.com"
+        }
+    ],
+    "require": {
+    }
+}
