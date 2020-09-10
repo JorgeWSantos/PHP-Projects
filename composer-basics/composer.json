@@ -1,0 +1,13 @@
+{
+    "name": "vendor/phpmvc",
+    "description": "projeto mvc basico",
+    "authors": [
+        {
+            "name": "Jorge",
+            "email": "jorgews.dev@gmail.com"
+        }
+    ],
+    "require": {
+        "intervention/image": "^2.5"
+    }
+}
