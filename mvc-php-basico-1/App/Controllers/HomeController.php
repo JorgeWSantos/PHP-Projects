@@ -1,0 +1,13 @@
+<?php
+
+namespace App\Controllers;
+require_once "Controller.php";
+
+
+class HomeController extends Controller
+{
+    public function index()
+    {
+        $this->render('Home/index');
+    }
+}
